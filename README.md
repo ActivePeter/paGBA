@@ -15,5 +15,3 @@ cmake, conan
 
    Tested platform: windows
 
-2. vba-next
-
